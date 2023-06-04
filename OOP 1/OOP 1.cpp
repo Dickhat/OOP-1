@@ -18,8 +18,8 @@ int main()
 	PressKey(49);			//1
 	APoint.set_visible();
 
-	//PressKey(50);			//2
-	//APoint.Move_To(APoint.Get_X() + 200, APoint.Get_Y());
+	PressKey(50);			//2
+	APoint.Move_To(APoint.Get_X() + 200, APoint.Get_Y());
 
 	PressKey(51);			//3
 	tow.set_visible();
